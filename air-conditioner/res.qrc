@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/clod.png</file>
+        <file>image/close.png</file>
+        <file>image/down.png</file>
+        <file>image/light.png</file>
+        <file>image/up.png</file>
+        <file>image/stat_clod.png</file>
+        <file>image/stat_light.png</file>
+        <file>image/wind.png</file>
+        <file>image/ac-work.wav</file>
+        <file>image/di.wav</file>
+    </qresource>
+</RCC>
